@@ -5,7 +5,7 @@ export type DefaultPagesType = {
 
 export const DEFAULT_PAGES: DefaultPagesType = {
   home: '/',
-  about: 'about-us',
+  about: 'about',
 };
 
 export class CustomRoutesDefault {
